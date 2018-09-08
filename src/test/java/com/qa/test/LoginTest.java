@@ -9,6 +9,10 @@ public void test(){
 		
 		System.out.println("Test Login");
 	}
+
+public void loginSet(){
 	
+	System.out.println(" Login Set");
+}
 
 }
